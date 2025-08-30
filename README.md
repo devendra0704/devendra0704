@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devendra Saini</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer </h3>
 
-- 🔭 I’m currently working on **Roomzzy - A WebRTC-based video calling platform**
-- 🌱 I’m currently learning **WebRTC, Docker, and Advanced System Design**
+- 🌱 I’m currently learning **TypeScript and NextJS**
 - 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio-link.com)
-- 💬 Ask me about **MERN Stack, Real-time apps, Robotics**
-- 📫 How to reach me: **your.email@example.com**
+- 💬 Ask me about **MERN Stack, DSA, OOPS**
+- 📫 How to reach me: **devsaini150602@gmail.com**
 - 📄 Know about my experiences [Resume](https://your-resume-link.com)
 
 ---
