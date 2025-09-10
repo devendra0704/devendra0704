@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer </h3>
 
 - 🌱 I’m currently learning **TypeScript and NextJS**
-- 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-omega-seven-31.vercel.app/)
 - 💬 Ask me about **MERN Stack, DSA, OOPS**
 - 📫 How to reach me: **devsaini150602@gmail.com**
 - 📄 Know about my experiences [Resume](https://your-resume-link.com)
